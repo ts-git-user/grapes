@@ -41,7 +41,7 @@ liveboard:
   - id: Viz_2
     viz_guid: 1ce2b1ae-a7b4-4a0b-979c-c33dca5dfbf4
     note_tile:
-      html_parsed_string: <h1 dir="ltr"><span>Note 1</span></h1>
+      html_parsed_string: <h1 dir="ltr"><span>Note 1 - commit 2</span></h1>
   layout:
     tiles:
     - visualization_id: Viz_1
